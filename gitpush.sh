@@ -1,5 +1,6 @@
 #/bin/bash
 
+echo ""
 echo `date`
 echo "<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>"
 git status
